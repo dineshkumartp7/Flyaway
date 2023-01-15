@@ -83,7 +83,7 @@ Object s=session.getAttribute("flightno");
 
 String url="jdbc:mysql://localhost:3306/flyaway";
 String  username="root";
-String password="Rocky@4121";
+String password="abcd1234";
 try {
 	Class.forName("com.mysql.cj.jdbc.Driver");
 	Connection connection=DriverManager.getConnection(url,username,password);

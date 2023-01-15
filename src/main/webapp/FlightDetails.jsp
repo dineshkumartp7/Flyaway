@@ -76,7 +76,7 @@ a{
 
 			<%!String url = "jdbc:mysql://localhost:3306/flyaway";
 	String username = "root";
-	String password = "Rocky@4121";
+	String password = "abcd1234";
 	%>
 
 			<%
@@ -146,4 +146,4 @@ a{
 </div>
 </center>
 </body>
-</html>
+</html

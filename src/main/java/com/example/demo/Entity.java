@@ -83,8 +83,4 @@ public class Entity {
                 + date + ", departure_time=" + departure_time + ", arrival_time=" + arrival_time + ", fare=" + fare
                 + "]";
     }
-
-
-
-
 }

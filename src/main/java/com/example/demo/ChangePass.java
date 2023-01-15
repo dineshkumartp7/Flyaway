@@ -42,7 +42,7 @@ public class ChangePass extends HttpServlet {
 
         String url = "jdbc:mysql://localhost:3306/flyaway";
         String dbusername = "root";
-        String dbpassword = "Rocky@4121";
+        String dbpassword = "abcd1234";
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection connection = DriverManager.getConnection(url, dbusername, dbpassword);
