@@ -14,9 +14,10 @@
 body{
 margin : 0;
 padding : 0;
+	background-color: #F6F6F2;
 }
 .head{
-background-color : #000;
+background-color : #388087;
 color : #fff;
 height : 50px;
 }

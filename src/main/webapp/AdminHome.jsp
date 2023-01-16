@@ -8,15 +8,16 @@
 <style>
     body{
     margin:0;
+        background-color: #F6F6F2
     }
     .head{
-    background-color : #000;
+    background-color : #388087;
     color : #fff;
     height : 50px;
     }
     h2{
     padding-top : 10px;
-    font-family : "Brush Script MT", Brush Script Std, cursive;
+    font-family :  Tahoma, sans-serif;
     }
     a{
     margin : 5px 5px;

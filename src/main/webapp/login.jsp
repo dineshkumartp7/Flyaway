@@ -9,14 +9,15 @@
 body{
 margin : 0;
 padding : 0;
+	background-color: #F6F6F2;
 }
 .head{
-background-color : #000;
+background-color : #388087;
 color : #fff;
 height : 50px;
 }
 h1{
-font-family : "Times New Roman", Times, serif;
+font-family : Tahoma, sans-serif;
 }
 .login-box{
 	margin-top : 40px;
@@ -24,6 +25,7 @@ font-family : "Times New Roman", Times, serif;
 	border : 1px solid #ccc;
 	box-shadow : 0 8px 12px 0px rgba(0,0,0,0.3);
 	positive : absolute;
+	background-color: #F6F6F2;
 }
 input{
   	padding: 5px 10px;
@@ -39,8 +41,15 @@ button{
 	height: 30px;
 	display : inline-block;
 	font-size : 15px;
-	background-color: rgb(0, 255, 128);
+	background-color:#388087;
 	margin : 5px;
+}
+label{
+	font-weight : bold;
+	padding-left: 10px ;
+	font-size: 15px;
+	color: #6FB3B8;
+
 }
 
 </style>
